@@ -13,7 +13,7 @@ This [Link](https://github.com/jones-trae) will let you get to know me and work 
 Table of Contents
 
 1. [Reading Notes 01](reading-notes01.md)
-2. [Reading Notes For Markdown](Markdown.md)
+2. [Reading Notes For Markdown](markdown.md)
 3. [Reading Notes 02](reading-notes02.md)
 4. [Reading Notes 03](reading-notes03.md)
 5. [Reading Notes 04]()

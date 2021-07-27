@@ -11,3 +11,5 @@ Simply put, *The Growth Mindset* is a set of mental outlooks that one uses to co
 2. Going an Extra Mile
 3. And celebrating the Success of Others
 
+[Back](README.md)
+

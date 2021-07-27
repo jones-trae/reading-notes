@@ -26,3 +26,5 @@ How to find out where you are
 5. File types = everything in lINux is a file, with 2-4 letter extensions that describe the file type, ie JPEG, PNG, TXT, etc.
 6. LiNUX is case sensitive, and hates spaces.
 
+[Back](README.md)
+

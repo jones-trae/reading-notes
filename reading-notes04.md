@@ -26,5 +26,5 @@ Elements can be nested, or empty depending on what you want them do.
 I.e. Meaning of a Piece o’ Code.
 This reading lets the reader know that semantics are essential a level of abstraction, or shorthand. …Duh.
 
-#Th last reading is a crash course on HTML Semantics, methods and markups from MDN Web Docs, a good free resource for a tutorial in a very ancient language. Fun.
-
+#The last reading is a crash course on HTML Semantics, methods and markups from MDN Web Docs, a good free resource for a tutorial in a very ancient language. Fun.
+[Back](README.md)

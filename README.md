@@ -20,3 +20,4 @@ Table of Contents
 6. [Reading Notes 05](reading-notes05.md)
 7. [Reading Notes 06](reading-notes06.md)
 8. [Reading Notes 07](reading-notes07.md)
+9. [Reading Notes 08](reading-notes08.md)

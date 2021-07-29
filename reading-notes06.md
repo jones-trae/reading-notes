@@ -21,4 +21,4 @@ Ex: ‘var carName’
 Or assign. Value to declared variable like  var carName = “Volvo”
 Ask about definition of concatenated
 
-[Back](README.md)s
+[Back](README.md)

@@ -21,3 +21,9 @@ Table of Contents
 7. [Reading Notes 06](reading-notes06.md)
 8. [Reading Notes 07](reading-notes07.md)
 9. [Reading Notes 08](reading-notes08.md)
+
+## Code 201
+1. [Reading Notes 01](2reading-notes01.md)
+2. [Reading Notes 02](2reading-notes02.md)
+3. [Reading Notes 03](2reading-notes03.md)
+4. [Reading Notes 04](2reading-notes04.md)

@@ -12,6 +12,8 @@ This [Link](https://github.com/jones-trae) will take you to my GIThub page.
 
 Table of Contents
 
+##Code 102
+
 1. [Reading Notes 01](reading-notes01.md)
 2. [Reading Notes For Markdown](markdown.md)
 3. [Reading Notes 02](reading-notes02.md)

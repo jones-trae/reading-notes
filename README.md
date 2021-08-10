@@ -12,7 +12,7 @@ This [Link](https://github.com/jones-trae) will take you to my GIThub page.
 
 Table of Contents
 
-##Code 102
+## Code 102
 
 1. [Reading Notes 01](reading-notes01.md)
 2. [Reading Notes For Markdown](markdown.md)

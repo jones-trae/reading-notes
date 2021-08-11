@@ -29,3 +29,7 @@ Table of Contents
 2. [Reading Notes 02](2reading-notes02.md)
 3. [Reading Notes 03](2reading-notes03.md)
 4. [Reading Notes 04](2reading-notes04.md)
+5. [Reading Notes 05](2reading-notes05.md)
+6. [Reading Notes 06](2reading-notes06.md)
+7. [Reading Notes 07](2reading-notes07.md)
+8. [Reading Notes 08](2reading-notes08.md)

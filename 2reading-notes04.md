@@ -1,4 +1,4 @@
-## Reading Notes 03
+## Reading Notes 04
 LINKS
 <a> tab
 <a href=“http://www.imdb.com”>IMDB</a>
@@ -26,3 +26,5 @@ Functions-group of statements that perform a specific task, need to be declared,
 
 This is all very “no duh.” A martial adage since language existed: the buddy system, don’t train alone, learning in a vacuum only solidifies your mistakes and on on on.
 I may want to pay close attention to the social skills, part: they are uh….getting rusty. Wouldn’t hurt to tone down my attitude. Maybe todays lab will be productive…
+
+[Back](README.md)

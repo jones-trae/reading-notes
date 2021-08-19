@@ -33,4 +33,4 @@ Table of Contents
 6. [Reading Notes 06](2reading-notes06.md)
 7. [Reading Notes 07](2reading-notes07.md)
 8. [Reading Notes 08](2reading-notes08.md)
-8. [Reading Notes 09](2reading-notes09.md)
+9. [Reading Notes 09](2reading-notes09.md)

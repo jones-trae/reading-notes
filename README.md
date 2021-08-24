@@ -36,5 +36,6 @@ Table of Contents
 9. [Reading Notes 09](2reading-notes09.md)
 10. [Reading Notes 10](2reading-notes10.md)
 11. [Reading Notes 11](2reading-notes11.md)
+12. [Reading Notes 12](2reading-notes11.md)
 
 

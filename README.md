@@ -12,7 +12,7 @@ This [Link](https://github.com/jones-trae) will take you to my GIThub page.
 
 Table of Contents
 
-## Code 102
+ ## *Code 102  Intro to Software Development*
 
 1. [Reading Notes 01](reading-notes01.md)
 2. [Reading Notes For Markdown](markdown.md)
@@ -24,7 +24,8 @@ Table of Contents
 8. [Reading Notes 07](reading-notes07.md)
 9. [Reading Notes 08](reading-notes08.md)
 
-## Code 201
+## *Code 201 Foundations of Software Development*
+
 1. [Reading Notes 01](2reading-notes01.md)
 2. [Reading Notes 02](2reading-notes02.md)
 3. [Reading Notes 03](2reading-notes03.md)
@@ -40,7 +41,8 @@ Table of Contents
 13. [Reading Notes 13](2reading-notes13.md)
 13. [Reading Notes 14](2reading-notes14.md)
 
-## Code 301
+## *Code 301 Intermediate Software Development*
+
 1. [Reading Notes 01](3reading-notes01.md)
 2. [Reading Notes 02](3reading-notes02.md)
 3. [Reading Notes 03](3reading-notes03.md)

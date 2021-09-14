@@ -40,5 +40,22 @@ Table of Contents
 13. [Reading Notes 13](2reading-notes13.md)
 13. [Reading Notes 14](2reading-notes14.md)
 
+## Code 301
+1. [Reading Notes 01](3reading-notes01.md)
+2. [Reading Notes 02](3reading-notes02.md)
+3. [Reading Notes 03](3reading-notes03.md)
+4. [Reading Notes 04](3reading-notes04.md)
+5. [Reading Notes 05](3reading-notes05.md)
+6. [Reading Notes 06](3reading-notes06.md)
+7. [Reading Notes 07](3reading-notes07.md)
+8. [Reading Notes 08](3reading-notes08.md)
+9. [Reading Notes 09](3reading-notes09.md)
+10. [Reading Notes 10](3reading-notes10.md)
+11. [Reading Notes 11](3reading-notes11.md)
+12. [Reading Notes 12](3reading-notes12.md)
+13. [Reading Notes 13](3reading-notes13.md)
+13. [Reading Notes 14](3reading-notes14.md)
+ 
+
 
 

@@ -1,5 +1,5 @@
 # *Reading-notes*
-Notes for code fellows 102, 201
+Notes for code fellows 102, 201, 301
 
 Hi I'm Valton Jones and I look like *this* with a mustache:
 

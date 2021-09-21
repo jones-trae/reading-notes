@@ -1,0 +1,29 @@
+
+ ##Reading REST
+
+1. Who is Roy Fielding? Apparently the architect of the internet:a researcher on how the first documents were sent via servers
+2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world? Developers have been creating architecture that allows communication between fewer machines than all of them; as fielding and co. intended. ‘Redirecting’ is an issue as well.
+3. What is the HTTP protocol that Fielding and his friends created? A gps for finding the location of resources, in a way; also a way of applying a verb to a noun: crazy
+4. What does a GET do? GETS. Human readable representation of that data
+5. What does a POST do? Adds something to a system
+6. What does PUT do? Replaces something in a system
+7. What does PATCH do? A partial update
+* Geocoding API
+1. Did you get your API key? I think?
+* Weather Bit API
+1. Did you get your API key? 
+dbaa8f7eccad4635a5bfaec87b7d9129
+* Yelp API Docs
+1. Did you get your API key? GET https://api.yelp.com/v3/businesses/search
+2. 
+* The Movie DB API Docs
+1. Did you get your API key? 7925ec767221fa280668405ea50e372a
+
+## Things I want to know more about the history of the creation of the internet
+
+
+
+
+
+
+[Back](README.md)
